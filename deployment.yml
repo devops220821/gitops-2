@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask-app-container
-        image: rathaiah/gitops-demo-app:18
+        image: rathaiah/gitops-demo-app:5
         ports:
         - containerPort: 5000
 ---
